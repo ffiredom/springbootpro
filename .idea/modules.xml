@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-common.iml" filepath="$PROJECT_DIR$/.idea/modules/website-common.iml" group="website-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-common/website-common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/website-common/website-common_main.iml" group="website-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-common/website-common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/website-common/website-common_test.iml" group="website-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-dao.iml" filepath="$PROJECT_DIR$/.idea/modules/website-dao.iml" group="website-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-dao/website-dao_main.iml" filepath="$PROJECT_DIR$/.idea/modules/website-dao/website-dao_main.iml" group="website-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-dao/website-dao_test.iml" filepath="$PROJECT_DIR$/.idea/modules/website-dao/website-dao_test.iml" group="website-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-demon.iml" filepath="$PROJECT_DIR$/.idea/modules/website-demon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-domain.iml" filepath="$PROJECT_DIR$/.idea/modules/website-domain.iml" group="website-domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-domain/website-domain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/website-domain/website-domain_main.iml" group="website-domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-domain/website-domain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/website-domain/website-domain_test.iml" group="website-domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-main.iml" filepath="$PROJECT_DIR$/.idea/modules/website-main.iml" group="website-main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-main/website-main_main.iml" filepath="$PROJECT_DIR$/.idea/modules/website-main/website-main_main.iml" group="website-main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-main/website-main_test.iml" filepath="$PROJECT_DIR$/.idea/modules/website-main/website-main_test.iml" group="website-main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-service.iml" filepath="$PROJECT_DIR$/.idea/modules/website-service.iml" group="website-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-service/website-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/website-service/website-service_main.iml" group="website-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-service/website-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/website-service/website-service_test.iml" group="website-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-web.iml" filepath="$PROJECT_DIR$/.idea/modules/website-web.iml" group="website-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-web/website-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/website-web/website-web_main.iml" group="website-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-web/website-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/website-web/website-web_test.iml" group="website-web" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+rootProject.name = 'website-demon'
+include 'website-main'
+include 'website-web'
+include 'website-service'
+include 'website-common'
+include 'website-dao'
+include 'website-domain'
+

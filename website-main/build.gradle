@@ -1,0 +1,17 @@
+plugins {
+    id 'org.springframework.boot' version '1.5.7.RELEASE'
+}
+bootRepackage {
+    mainClass ='com.springboot.gradle.main.Application'
+}
+sourceSets {
+    main {
+        resources {
+            srcDirs = ["src/main/resources"]
+        }
+    }
+}
+
+dependencies {
+    compile project(":website-web")
+}

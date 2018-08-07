@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="website-common_main" target="1.8" />
+      <module name="website-common_test" target="1.8" />
+      <module name="website-dao_main" target="1.8" />
+      <module name="website-dao_test" target="1.8" />
+      <module name="website-demon_main" target="1.8" />
+      <module name="website-demon_test" target="1.8" />
+      <module name="website-domain_main" target="1.8" />
+      <module name="website-domain_test" target="1.8" />
+      <module name="website-main_main" target="1.8" />
+      <module name="website-main_test" target="1.8" />
+      <module name="website-service_main" target="1.8" />
+      <module name="website-service_test" target="1.8" />
+      <module name="website-web_main" target="1.8" />
+      <module name="website-web_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

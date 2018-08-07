@@ -1,0 +1,15 @@
+dependencies {
+    compile project(':website-domain')
+    compile "com.alibaba:druid:${druidVersion}"
+    compile "mysql:mysql-connector-java:${mysqlConnectorJavaVersion}"
+    compile "org.springframework.boot:spring-boot-starter-jdbc:${springBootVersion}"
+    compile("org.mybatis.spring.boot:mybatis-spring-boot-starter:${mybatisSpringBootStarterVersion}") {
+        exclude(module: 'spring-boot-starter')
+        exclude(module: 'spring-boot-starter-jdbc')
+        exclude(module: 'spring-boot-autoconfigure')
+    }
+    compile "org.springframework.boot:spring-boot-starter:${springBootVersion}"
+    compile "org.springframework.boot:spring-boot-starter-jdbc:${springBootVersion}"
+    compile "org.springframework.boot:spring-boot-autoconfigure:${springBootVersion}"
+
+}

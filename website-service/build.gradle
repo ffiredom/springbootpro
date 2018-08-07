@@ -1,0 +1,7 @@
+dependencies {
+    compile project(':website-common')
+    compile project(':website-dao')
+    testCompile "org.springframework.boot:spring-boot-starter-test:${springBootVersion}"
+
+
+}
