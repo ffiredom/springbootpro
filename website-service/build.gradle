@@ -1,6 +1,11 @@
 dependencies {
     compile project(':website-common')
     compile project(':website-dao')
+    compile "org.apache.rocketmq:rocketmq-client:${rocketmqClientVersion}"
+    compile("com.alibaba:dubbo:${dubboVersion}") {
+        exclude(module: 'spring')
+    }
+    compile "com.101tec:zkclient:${zkclientVersion}"
     testCompile "org.springframework.boot:spring-boot-starter-test:${springBootVersion}"
 
 
